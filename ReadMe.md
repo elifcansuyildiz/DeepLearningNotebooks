@@ -1,6 +1,8 @@
 # Pytorch ReadMe
 
-[TOC]
+   * [Pytorch ReadMe](#pytorch-readme)
+      * [Linear Networks](#linear-networks)
+      * [Convolutional Networks](#convolutional-networks)
 
 ## Linear Networks
 
