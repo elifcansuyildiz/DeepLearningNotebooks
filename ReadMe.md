@@ -17,8 +17,6 @@
 | [LinearNetworks_6.ipynb](https://github.com/elifcansuyildiz/DeepLearningNotebooks/blob/main/LinearNetworks_6.ipynb) | CIFAR10 dataset<br />Adam Optimizer <br />Grid Search <br />Random Search (TODO)<br />Orthogonal Matrix Regularization<br />Label Smoothing  <br />Batch Normalization |
 | [NeuralNetworks_CudaPractice.ipynb](https://github.com/elifcansuyildiz/DeepLearningNotebooks/blob/main/LinearNetworks_CudaPractice.ipynb) | Fashion MNIST dataset<br />Experiment: Running on GPU and CPU |
 |                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
 
 
 
@@ -29,8 +27,6 @@
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | [ConvNetworks_1.ipynb](https://github.com/elifcansuyildiz/DeepLearningNotebooks/blob/main/ConvNetworks_1.ipynb) | CIFAR10 dataset<br />Implementation of Convolutional Neural Net |
 | [ConvNetworks_2.ipynb](https://github.com/elifcansuyildiz/DeepLearningNotebooks/blob/main/ConvNetworks_2.ipynb) | CIFAR10 dataset<br />Batch Normalization<br />Data Augmentation |
-|                                                              |                                                              |
-|                                                              |                                                              |
 |                                                              |                                                              |
 |                                                              |                                                              |
 
