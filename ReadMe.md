@@ -23,14 +23,14 @@
 ## Convolutional Networks
 
 
-| Notebook                   | Description                                                  |
-| :------------------------- | ------------------------------------------------------------ |
-| [ConvNetworks_1.ipynb](xx) | CIFAR10 dataset<br />Implementation of Convolutional Neural Net |
-| [ConvNetworks_2.ipynb](xx) | CIFAR10 dataset<br />Batch Normalization<br />Data Augmentation |
-|                            |                                                              |
-|                            |                                                              |
-|                            |                                                              |
-|                            |                                                              |
+| Notebook                                                     | Description                                                  |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
+| [ConvNetworks_1.ipynb](https://github.com/elifcansuyildiz/DeepLearningNotebooks/blob/main/ConvNetworks_1.ipynb) | CIFAR10 dataset<br />Implementation of Convolutional Neural Net |
+| [ConvNetworks_2.ipynb](https://github.com/elifcansuyildiz/DeepLearningNotebooks/blob/main/ConvNetworks_2.ipynb) | CIFAR10 dataset<br />Batch Normalization<br />Data Augmentation |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 
 
